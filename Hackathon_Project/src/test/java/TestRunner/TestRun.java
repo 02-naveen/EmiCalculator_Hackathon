@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 					//features= {".//Features/"},
 					features= {".//Features/CarLoanEmi.feature",".//Features/EMIcalcPage.feature",".//Features/LoanAmountCalc.feature",".//Features/LoanTenureCalcPage.feature"},
-		           // features= {".//Features/EMIcalcPage.feature"},
+		            // features= {".//Features/EMIcalcPage.feature"},
 					//features= {".//Features/carLoanEmi.feature"},
 					//features= {".//Features/LoanAmountCalc.feature"},
 		            //features= {".//Features/LoanTenureCalcPage.feature"},

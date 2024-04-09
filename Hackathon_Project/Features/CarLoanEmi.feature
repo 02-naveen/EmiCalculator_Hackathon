@@ -1,6 +1,6 @@
 Feature: Car loan EMI calculator
  
-  @sanity 
+  @smoke
   Scenario Outline: Enter the Valid Credentials
     Given the user click car loan
     Then enter the values with excel row "<row_index>"
